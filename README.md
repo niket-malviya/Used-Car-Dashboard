@@ -33,27 +33,28 @@ This project scrapes used car listings from [CarWale](https://www.carwale.com) a
 ### 📊 Dashboard Highlights (Power BI)
 
 #### 1. 💰 Price Insights
-- Average price by brand, fuel, and transmission
-- Price vs year scatter plot
-- Price heatmap by origin & fuel type
+- Average price by brand, transmission_type
+- Price vs year line chart
+- Price vs owners line chart
 
 #### 2. 🏙️ City-Wise Availability
 - Car count by city
 - Avg. price by city
-- Fuel type vs city (heatmap)
+- transmission_type vs city
 - Origin vs city (stacked bar)
-- *Note: Map visuals are disabled by org settings*
+
 
 #### 3. 🚗 Usage & Ownership Trends
-- No. of owners vs price
+- No. of owners vs kilometer driven
 - Avg. KM driven by no. of owners
 - Insurance status vs ownership
-- Ownership span trends by brand
+- fuel type vs insurance
 
 #### 4. 🌍 Origin Comparisons
-- Japanese vs German cars in Indian market
+- Japanese(toyota) vs German(BMW) cars in Indian market
 - Sports mode & paddle shifter availability by origin
 - Transmission type and fuel breakdown by origin
+- count of cars by origin
 
 ---
 
@@ -98,6 +99,4 @@ This project scrapes used car listings from [CarWale](https://www.carwale.com) a
 Feel free to reach out for collaborations or questions!  
 📧 malviyaniket2@gmail.com, niket-malviya
 
----
 
-Would you like me to generate this as a Markdown file you can copy directly into GitHub, or customize anything else (like a banner, badges, or installation steps)?
