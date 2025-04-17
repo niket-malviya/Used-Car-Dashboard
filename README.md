@@ -96,7 +96,7 @@ This project scrapes used car listings from [CarWale](https://www.carwale.com) a
 ### 📬 Contact
 
 Feel free to reach out for collaborations or questions!  
-📧 [Your Email or GitHub Profile]
+📧 malviyaniket2@gmail.com, niket-malviya
 
 ---
 
