@@ -40,7 +40,7 @@ This project scrapes used car listings from [CarWale](https://www.carwale.com) a
 #### 2. 🏙️ City-Wise Availability
 - Car count by city
 - Avg. price by city
-- transmission_type vs city
+- Transmission_type vs city
 - Origin vs city (stacked bar)
 
 
@@ -48,13 +48,13 @@ This project scrapes used car listings from [CarWale](https://www.carwale.com) a
 - No. of owners vs kilometer driven
 - Avg. KM driven by no. of owners
 - Insurance status vs ownership
-- fuel type vs insurance
+- Fuel type vs insurance
 
 #### 4. 🌍 Origin Comparisons
 - Japanese(toyota) vs German(BMW) cars in Indian market
 - Sports mode & paddle shifter availability by origin
 - Transmission type and fuel breakdown by origin
-- count of cars by origin
+- Count of cars by origin
 
 ---
 
